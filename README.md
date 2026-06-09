@@ -18,13 +18,13 @@ Hi there! 👋 I'm Antonio, a Business Data Analyst with a passion for data, tec
 
 📊Business Data Analyst
 
-⚽Appassionato di sport
+⚽Sports enthusiast
 
-💻 Amante della tecnologia
+💻Technology lover
 
-📈 Sempre a imparare cose nuove
+📈 Always learning new things
 
-## 📬 Contatti
+## 📬 Contacts
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:antonioborgnone@hotmail.it)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonioborgnone96)
