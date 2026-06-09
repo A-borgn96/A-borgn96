@@ -1,5 +1,5 @@
-Hi there! 👋 Sono Antonio
-Business Data Analyst con la passione per i dati, la tecnologia e lo sport. Lavoro con database relazionali e strumenti di visualizzazione per trasformare i dati in insight utili. Sempre curioso, sempre in movimento.
+Hi there! 👋 I'm Antonio, a Business Data Analyst with a passion for data, technology, and sports. I work with relational databases and visualization tools to transform data into actionable insights. Always curious, always on the move.
+
 
 ## 🛠️ Tech Stack
 
