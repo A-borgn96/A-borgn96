@@ -23,3 +23,8 @@ Business Data Analyst con la passione per i dati, la tecnologia e lo sport. Lavo
 💻 Amante della tecnologia
 
 📈 Sempre a imparare cose nuove
+
+## 📬 Contatti
+
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:antonioborgnone@hotmail.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonioborgnone96)
